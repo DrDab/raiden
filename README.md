@@ -1,5 +1,7 @@
 # Raiden
 
+[Article.](https://ibrahimahmed.ca/cybersecurity/2020/08/30/how-i-made-an-among-us-hack.html)
+
 This requires [Injector.](https://github.com/nefarius/Injector)
 
 The compiled executable is in the `binary/` directory.
